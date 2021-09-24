@@ -17,7 +17,7 @@
 				<key>metadata</key>
 				<dict>
 					<key>bundle-identifier</key>
-					<string>com.spotify.client</string>
+					<string>com.spotify.client2</string>
 					<key>bundle-version</key>
 					<string>8.5.75</string>
 					<key>kind</key>
