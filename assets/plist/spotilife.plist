@@ -11,7 +11,7 @@
 						<key>kind</key>
 						<string>software-package</string>
 						<key>url</key>
-						<string>https://files.getzeus.app/ipas/Spotify++/Spotify++.ipa</string>
+						<string>https://github.com/ipahacks/ipas/raw/main/spotify++.ipa</string>
 					</dict>
 				</array>
 				<key>metadata</key>
