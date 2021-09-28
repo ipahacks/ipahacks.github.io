@@ -17,13 +17,13 @@
 				<key>metadata</key>
 				<dict>
 					<key>bundle-identifier</key>
-					<string>com.mallibone.sample</string>
+					<string>com.ipahacks.picsart</string>
 					<key>bundle-version</key>
 					<string>1.0</string>
 					<key>kind</key>
 					<string>software</string>
 					<key>title</key>
-					<string>PicsArt - iPA Hacks</string>
+					<string>PicsArt++ - iPA Hacks</string>
 				</dict>
 			</dict>
 		</array>
