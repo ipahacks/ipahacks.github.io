@@ -4,8 +4,6 @@
   left: 0;
   right: 0;
   background-color: rgb(17, 17 17);
-  -webkit-backdrop-filter: saturate(180%) blur(20px);
-  backdrop-filter: saturate(180%) blur(20px);
   }
   .apps {	
   width: 85%;
