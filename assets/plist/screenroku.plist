@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/ipahacks/ipas/raw/main/kinemasterhack.ipa</string>
+					<string>https://github.com/ipahacks/ipas/raw/main/screenroku.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ipahacks.kinemaster</string>
+				<string>com.ipahacks.screenroku</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Kinemaster++ - iPA Hacks</string>
+				<string>Screen Mirroring+ for Roku - iPA Hacks</string>
 			</dict>
 		</dict>
 	</array>

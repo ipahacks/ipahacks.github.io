@@ -1,9 +1,9 @@
-ErrorDocument 400 https://ipahacks.github.io/404.html
-ErrorDocument 401 https://ipahacks.github.io/404.html
-ErrorDocument 403 https://ipahacks.github.io/404.html
-ErrorDocument 404 https://ipahacks.github.io/404.html
-ErrorDocument 500 https://ipahacks.github.io/404.html
-ErrorDocument 503 https://ipahacks.github.io/404.html
+ErrorDocument 400 https://ipahacks.github.io/app.html
+ErrorDocument 401 https://ipahacks.github.io/app.html
+ErrorDocument 403 https://ipahacks.github.io/app.html
+ErrorDocument app https://ipahacks.github.io/app.html
+ErrorDocument 500 https://ipahacks.github.io/app.html
+ErrorDocument 503 https://ipahacks.github.io/app.html
 
 RewriteEngine on
 RewriteCond %{REQUEST_FILENAME} !-d
